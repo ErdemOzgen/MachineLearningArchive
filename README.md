@@ -1,6 +1,6 @@
 # MachineLearningArchive
 
-![ML Image](img/ml.jpg)<br>
+![ML Image](img/ml.png)<br>
 Archive for machine learning
 
 # Books TODO List
