@@ -22,3 +22,4 @@ This my personal preference, you can skip this if you want.
 # Index
 
 1. [Hands-on Machine Learning](handsonML2/)
+2. [Python Data Science Handbook](Python_Data_Science_Handbook/)
