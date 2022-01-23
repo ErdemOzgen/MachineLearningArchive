@@ -3,6 +3,8 @@
 ![ML Image](img/ml.png)<br>
 Archive for machine learning
 
+` This repo has not finished yet. It needs time and help...`
+
 # Install Jupyter-Notebook Dark theme
 
 This my personal preference, you can skip this if you want.
