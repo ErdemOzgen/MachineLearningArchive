@@ -25,9 +25,11 @@ This my personal preference, you can skip this if you want.
 - [ ] HandsonML Julia rewrite
 - [x] Python Data Science Handbook
 - [ ] ML Algorithms Cheatsheet
+- [x] Add Andrew Ng Notes
 
 
 # Index
 
 1. [Hands-on Machine Learning](handsonML2/)
 2. [Python Data Science Handbook](Python_Data_Science_Handbook/)
+3. [Andrew Ng Notes](AndrewNG/README.md)
