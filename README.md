@@ -33,3 +33,33 @@ This my personal preference, you can skip this if you want.
 1. [Hands-on Machine Learning](handsonML2/)
 2. [Python Data Science Handbook](Python_Data_Science_Handbook/)
 3. [Andrew Ng Notes](AndrewNG/)
+
+
+	
+---
+
+### Machine Learning Engineer Nanodegree
+
+<details>
+  <summary>View Details</summary>
+
+Machine learning represents a key evolution in the fields of computer
+science, data analysis, software engineering, and artificial intelligence.
+
+This program will teach you how to become a machine learning engineer,
+and apply predictive models to massive data sets in fields like finance,
+healthcare, education, and more.
+
+1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+1. [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+1. [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+1. [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+1. [Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+1. [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+1. [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+1. [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+1. [Machine Learning Interview Preparation](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
+
+</details>
+
+---
