@@ -26,6 +26,7 @@ This my personal preference, you can skip this if you want.
 - [x] Python Data Science Handbook
 - [ ] ML Algorithms Cheatsheet
 - [x] Add Andrew Ng Notes
+- [ ] Add Data Science ipython notebooks from my local
 
 
 # Index
