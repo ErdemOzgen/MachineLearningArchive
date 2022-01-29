@@ -28,6 +28,7 @@ This my personal preference, you can skip this if you want.
 - [x] Add Andrew Ng Notes
 - [ ] Add Data Science ipython notebooks from my local
 - [ ] [Add Learn from Data](https://work.caltech.edu/lectures.html#lectures) 
+- [ ] Add 100 page machine learning book 
 
 
 # Index
