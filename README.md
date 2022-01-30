@@ -13,11 +13,14 @@ This my personal preference, you can skip this if you want.
 - `pip install jupyterthemes`
 - `jt -l`
 - ` jt -t chesterish`
+
+
 Also run this command for debugs:
-`
-#for debug purpose
-%qtconsole --style solarized-dark
-`
+
+- ` #for debug purpose ` 
+- ` %qtconsole --style solarized-dark `
+
+
 
 # Books TODO List
 
